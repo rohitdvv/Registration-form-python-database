@@ -43,5 +43,4 @@ ebox.place(x=400,y=368)
 btn=Button(text="Register",width=20,bg="#C0C0C0",fg="white",command = clicked)
 btn.place(x=400,y=468)
 
-
 r.mainloop()
